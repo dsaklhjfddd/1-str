@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+}
+p{
+   font-size:40px;
+   color:gold; 
+   border:solid red 3px;
+   padding: 30px;
+   border-radius: 20px;
+   background-color:red;
+}
+.link-header{
+    text-decoration: none;
+    border:solid red 3px ;
+    border-radius: 14px;
+    padding: 3px ;
+}
+h1{
+   border:solid red 3px;
+   border-radius: 30px;
+   padding: 30px; 
+   background-color: #FF7373;
+   color:white;
+}
